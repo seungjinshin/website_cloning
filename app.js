@@ -6357,7 +6357,7 @@
     }
 }
 , function(t, n) {
-    t.exports = "\t\n\v\f\r   ᠎             　\u2028\u2029\ufeff"
+    t.exports = "\t\n\v\f\r   ᠎             　\u2028\u2029\ufeff"
 }
 , function(t, n, e) {
     var r = e(4)
@@ -11246,13 +11246,13 @@
             }, ["ㅇ" == n.photo ? e("img", {
                 staticClass: "man-iconimg",
                 attrs: {
-                    src: "http://pages.newstapa.org/n1905/static/img/men/" + n.name + ".png",
+                    src: "/website_cloning1/img/men/" + n.name + ".png",
                     alt: ""
                 }
             }) : e("img", {
                 staticClass: "man-iconimg",
                 attrs: {
-                    src: "http://pages.newstapa.org/n1905/static/img/men/" + n.photo + ".png",
+                    src: "/website_cloning1/img/men/" + n.name + ".png",
                     alt: ""
                 }
             })]), t._v(" "), e("p", {
@@ -11280,13 +11280,13 @@
         }), t._v(" "), "ㅇ" == t.infoData.photo ? e("img", {
             staticClass: "infobox-iconimg",
             attrs: {
-                src: "http://pages.newstapa.org/n1905/static/img/men/" + t.infoData.name + ".png",
+                src: "/website_cloning1/img/men/" + n.name + ".png",
                 alt: ""
             }
         }) : e("img", {
             staticClass: "infobox-iconimg",
             attrs: {
-                src: "http://pages.newstapa.org/n1905/static/img/men/" + t.infoData.photo + ".png",
+                src: "/website_cloning1/img/men/" + n.name + ".png",
                 alt: ""
             }
         }), t._v(" "), e("p", {
