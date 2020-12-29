@@ -11271,7 +11271,7 @@
         }, [e("img", {
             staticClass: "infobox-close",
             attrs: {
-                src: /website_cloning1/img/close.png
+                src: "/website_cloning1/img/close.png",
                 alt: "닫기버튼"
             },
             on: {
