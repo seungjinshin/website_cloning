@@ -11246,13 +11246,13 @@
             }, ["ㅇ" == n.photo ? e("img", {
                 staticClass: "man-iconimg",
                 attrs: {
-                    src: "/website_cloning1/img/men/" + n.name + ".png",
+                    src: "/website_cloning1/img/men/" + "n.name" + ".png",
                     alt: ""
                 }
             }) : e("img", {
                 staticClass: "man-iconimg",
                 attrs: {
-                    src: "/website_cloning1/img/men/" + n.name + "japan.png",
+                    src: "/website_cloning1/img/men/" + "n.name" + "japan.png",
                     alt: ""
                 }
             })]), t._v(" "), e("p", {
@@ -11286,7 +11286,7 @@
         }) : e("img", {
             staticClass: "infobox-iconimg",
             attrs: {
-                src: "/website_cloning1/img/men/" + "japan" + ".png",
+                src: "/website_cloning1/img/men/" + t.infoData.name + ".png",
                 alt: ""
             }
         }), t._v(" "), e("p", {
