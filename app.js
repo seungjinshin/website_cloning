@@ -11252,7 +11252,7 @@
             }) : e("img", {
                 staticClass: "man-iconimg",
                 attrs: {
-                    src: "/website_cloning1/img/men/" + "n.name" + "japan.png",
+                    src: "/website_cloning1/img/men/japan.png",
                     alt: ""
                 }
             })]), t._v(" "), e("p", {
