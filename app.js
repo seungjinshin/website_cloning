@@ -11286,7 +11286,7 @@
         }) : e("img", {
             staticClass: "infobox-iconimg",
             attrs: {
-                src: "/website_cloning1/img/men/" + t.infoData.name + ".png",
+                src: "/website_cloning1/img/men/" + "japan" + ".png",
                 alt: ""
             }
         }), t._v(" "), e("p", {
