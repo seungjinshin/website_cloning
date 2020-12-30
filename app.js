@@ -11246,7 +11246,7 @@
             }, ["ㅇ" == n.photo ? e("img", {
                 staticClass: "man-iconimg",
                 attrs: {
-                    src: "/website_cloning1/img/men/" + "n.name" + ".png",
+                    src: "/website_cloning1/img/men/" + n.name + ".png",
                     alt: ""
                 }
             }) : e("img", {
